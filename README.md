@@ -1,8 +1,8 @@
-# What’s Inside material.dart #3 — Flutter
+# Image / Video Picker — Flutter
 
 Hello All Flutter Developers
 
-All of you know that flutter 1.9 has release and supports many new widgets. To know more what added (release notes here)[https://github.com/flutter/flutter/wiki/Release-Notes-Flutter-1.9.1]
+All of you know that flutter 1.9 has release and supports many new widgets. To know more what added [release notes here](https://github.com/flutter/flutter/wiki/Release-Notes-Flutter-1.9.1)
 
 Today we are gonna see how to use `image_picker` plugin to get Image & Video file from Gallery & Camera
 
@@ -218,7 +218,7 @@ We call `_pickImage`, `_pickVideo` methods whenever we press a button
 
 This is how we pick an Image or Video from gallery or camera
 
-You can get the (Source code here)[https://github.com/PonnamKarthik/FlutterImageVideoPickerDemo]
+You can get the [Source code here](https://github.com/PonnamKarthik/FlutterImageVideoPickerDemo)
 
 **Thanks for your time.**
 
