@@ -1,0 +1,24 @@
+name: bootcamp_image_video_picker
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  # Dependency for image picker
+  image_picker: ^0.6.1+4
+  # Dependency for video player
+  video_player: ^0.10.2+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
