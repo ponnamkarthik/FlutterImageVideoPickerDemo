@@ -9,11 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^0.1.2
+  cupertino_icons: ^1.0.0
   # Dependency for image picker
-  image_picker: ^0.6.1+4
+  image_picker: ^0.6.7+12
   # Dependency for video player
-  video_player: ^0.10.2+1
+  video_player: ^0.11.1+2
 
 dev_dependencies:
   flutter_test:
